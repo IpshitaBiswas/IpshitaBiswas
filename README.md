@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🖥️ I'm currently studying Computer Science Engineering at PES University, Bangalore (Batch of 2025).<br><br>💡 I'm currently working on AI/ML, Generative AI, and LLM-based projects. Exploring software development with Next.js.<br><br>🤝 I'm looking to collaborate on Open-source projects, especially in NLP, LLMs, and deep learning.<br><br>🚀 I'm looking for help with refining system design, full-stack development, and advanced AI model optimizations.<br><br>🌱 I'm currently learning Next.js, Agentic Frameworks, and preparing for coding interviews.<br><br>📚 I'm Leetcoding actively as I prepare for a career in big tech.
+🖥️ I'm currently studying Computer Science Engineering at PES University, Bangalore (Batch of 2025).<br><br>💡 I'm currently working on AI/ML, Generative AI, and LLM-based projects. Exploring software development with Next.js.<br><br>🤝 I'm looking to collaborate on Open-source projects, especially in NLP, LLMs, and deep learning.<br><br>🚀 I'm looking for help with refining system design, full-stack development, and advanced AI model optimizations.<br><br>🌱 I'm currently learning Next.js, Agentic Frameworks, and preparing for coding interviews.<br><br>📚 I'm Leetcoding actively as I prepare for a career in big tech<br><br>🔄 New GitHub, Same Passion! Lost access to my previous account due to authentication issues. Rebuilding my portfolio here!.
 
 
 ## 🌐 Socials:
